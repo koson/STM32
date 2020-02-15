@@ -1,0 +1,78 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "f:/00Embedded/repositories/STM32/ADC/Inc",
+                "f:/00Embedded/repositories/STM32/ADC/Src",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/CMSIS/Include",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/CMSIS/Device/ST/STM32F3xx/Include",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/STM32F3xx_HAL_Driver/Inc",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/Common",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/STM32F3xx-Nucleo",
+                "C:/Users/koson/.platformio/lib/U8glib_ID9",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/cs42l52",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/cs43l22",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/hx8347d",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/hx8347g",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9320",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9325",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9328",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/l3gd20",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/lsm303dlhc",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/spfd5408",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/st7735",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/stlm75",
+                "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/stts751",
+                "C:/Users/koson/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "f:/00Embedded/repositories/STM32/ADC/Inc",
+                    "f:/00Embedded/repositories/STM32/ADC/Src",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/CMSIS/Include",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/CMSIS/Device/ST/STM32F3xx/Include",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/STM32F3xx_HAL_Driver/Inc",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/Common",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/STM32F3xx-Nucleo",
+                    "C:/Users/koson/.platformio/lib/U8glib_ID9",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/cs42l52",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/cs43l22",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/hx8347d",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/hx8347g",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9320",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9325",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/ili9328",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/l3gd20",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/lsm303dlhc",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/spfd5408",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/st7735",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/stlm75",
+                    "C:/Users/koson/.platformio/packages/framework-stm32cube/f3/Drivers/BSP/Components/stts751",
+                    "C:/Users/koson/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40201",
+                "STM32F303xE",
+                "USE_HAL_DRIVER",
+                "F_CPU=72000000L",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "C:/Users/koson/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mthumb",
+                "-mcpu=cortex-m4",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
